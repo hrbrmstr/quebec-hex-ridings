@@ -1,0 +1,32 @@
+---
+output: rmarkdown::github_document
+---
+
+# quebec-hex-ridings
+
+## Description
+
+## What's Inside The Tin
+
+The following functions are implemented:
+
+## Installation
+
+```{r eval=FALSE}
+devtools::install_github("hrbrmstr/quebec-hex-ridings")
+```
+
+```{r message=FALSE, warning=FALSE, error=FALSE, include=FALSE}
+options(width=120)
+```
+
+## Usage
+
+```{r message=FALSE, warning=FALSE, error=FALSE}
+library(quebec-hex-ridings)
+
+# current verison
+packageVersion("quebec-hex-ridings")
+
+```
+
